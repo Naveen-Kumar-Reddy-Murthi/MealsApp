@@ -25,7 +25,7 @@ const Search = () => {
         className='form-input' />
       <button type="submit" className='btn'>search</button>
       <button type="button" className="btn btn-hipster" onClick={handleRandomMeal}>
-        surprise me!</button>
+        I'm feeling lucky!</button>
     </form>
   </header>
 }
